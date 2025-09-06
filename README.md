@@ -1,5 +1,5 @@
 # AI LinkedIn Post Generator
-# 📸[ Click Here to see live ](https://drive.google.com/file/d/114zMo9fPXSdefMeZ36MK_LWaPr_xXwTn/view?usp=sharing)
+# 📸[ Click Here to see live ](https://www.linkedin.com/posts/moynuddin-al-masum-683102375_ai-openai-langchain-activity-7370021032008581120-INVM?utm_source=share&utm_medium=member_android&rcm=ACoAAFy97UMBvYCDuI65RXVqWNIg-pbSkPfXBng)
 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
